@@ -1,0 +1,6 @@
+1. Colab Pro notebook with minimum 12 GB RAM instance. 
+2. tensorflow
+3. tensorboard
+4. scikit-learn
+5.matplotlib, seaborn
+6.Inside Aierbnb dataset (csv.gz files)
